@@ -1,0 +1,14 @@
+D:\DOT NET COURSE\TASK1\TASK1\bin\Debug\net8.0\TASK1.exe
+D:\DOT NET COURSE\TASK1\TASK1\bin\Debug\net8.0\TASK1.deps.json
+D:\DOT NET COURSE\TASK1\TASK1\bin\Debug\net8.0\TASK1.runtimeconfig.json
+D:\DOT NET COURSE\TASK1\TASK1\bin\Debug\net8.0\TASK1.dll
+D:\DOT NET COURSE\TASK1\TASK1\bin\Debug\net8.0\TASK1.pdb
+D:\DOT NET COURSE\TASK1\TASK1\obj\Debug\net8.0\TASK1.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOT NET COURSE\TASK1\TASK1\obj\Debug\net8.0\TASK1.AssemblyInfoInputs.cache
+D:\DOT NET COURSE\TASK1\TASK1\obj\Debug\net8.0\TASK1.AssemblyInfo.cs
+D:\DOT NET COURSE\TASK1\TASK1\obj\Debug\net8.0\TASK1.csproj.CoreCompileInputs.cache
+D:\DOT NET COURSE\TASK1\TASK1\obj\Debug\net8.0\TASK1.dll
+D:\DOT NET COURSE\TASK1\TASK1\obj\Debug\net8.0\refint\TASK1.dll
+D:\DOT NET COURSE\TASK1\TASK1\obj\Debug\net8.0\TASK1.pdb
+D:\DOT NET COURSE\TASK1\TASK1\obj\Debug\net8.0\TASK1.genruntimeconfig.cache
+D:\DOT NET COURSE\TASK1\TASK1\obj\Debug\net8.0\ref\TASK1.dll
