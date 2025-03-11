@@ -1,0 +1,15 @@
+D:\DOT NET COURSE\interface\interface\bin\Debug\net8.0\interface.exe
+D:\DOT NET COURSE\interface\interface\bin\Debug\net8.0\interface.deps.json
+D:\DOT NET COURSE\interface\interface\bin\Debug\net8.0\interface.runtimeconfig.json
+D:\DOT NET COURSE\interface\interface\bin\Debug\net8.0\interface.dll
+D:\DOT NET COURSE\interface\interface\bin\Debug\net8.0\interface.pdb
+D:\DOT NET COURSE\interface\interface\obj\Debug\net8.0\interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOT NET COURSE\interface\interface\obj\Debug\net8.0\interface.AssemblyInfoInputs.cache
+D:\DOT NET COURSE\interface\interface\obj\Debug\net8.0\interface.AssemblyInfo.cs
+D:\DOT NET COURSE\interface\interface\obj\Debug\net8.0\interface.csproj.CoreCompileInputs.cache
+D:\DOT NET COURSE\interface\interface\obj\Debug\net8.0\interface.sourcelink.json
+D:\DOT NET COURSE\interface\interface\obj\Debug\net8.0\interface.dll
+D:\DOT NET COURSE\interface\interface\obj\Debug\net8.0\refint\interface.dll
+D:\DOT NET COURSE\interface\interface\obj\Debug\net8.0\interface.pdb
+D:\DOT NET COURSE\interface\interface\obj\Debug\net8.0\interface.genruntimeconfig.cache
+D:\DOT NET COURSE\interface\interface\obj\Debug\net8.0\ref\interface.dll
