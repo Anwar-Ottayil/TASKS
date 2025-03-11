@@ -1,0 +1,15 @@
+D:\DOT NET COURSE\diamondpattern\diamondpattern\bin\Debug\net8.0\diamondpattern.exe
+D:\DOT NET COURSE\diamondpattern\diamondpattern\bin\Debug\net8.0\diamondpattern.deps.json
+D:\DOT NET COURSE\diamondpattern\diamondpattern\bin\Debug\net8.0\diamondpattern.runtimeconfig.json
+D:\DOT NET COURSE\diamondpattern\diamondpattern\bin\Debug\net8.0\diamondpattern.dll
+D:\DOT NET COURSE\diamondpattern\diamondpattern\bin\Debug\net8.0\diamondpattern.pdb
+D:\DOT NET COURSE\diamondpattern\diamondpattern\obj\Debug\net8.0\diamondpattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOT NET COURSE\diamondpattern\diamondpattern\obj\Debug\net8.0\diamondpattern.AssemblyInfoInputs.cache
+D:\DOT NET COURSE\diamondpattern\diamondpattern\obj\Debug\net8.0\diamondpattern.AssemblyInfo.cs
+D:\DOT NET COURSE\diamondpattern\diamondpattern\obj\Debug\net8.0\diamondpattern.csproj.CoreCompileInputs.cache
+D:\DOT NET COURSE\diamondpattern\diamondpattern\obj\Debug\net8.0\diamondpattern.sourcelink.json
+D:\DOT NET COURSE\diamondpattern\diamondpattern\obj\Debug\net8.0\diamondpattern.dll
+D:\DOT NET COURSE\diamondpattern\diamondpattern\obj\Debug\net8.0\refint\diamondpattern.dll
+D:\DOT NET COURSE\diamondpattern\diamondpattern\obj\Debug\net8.0\diamondpattern.pdb
+D:\DOT NET COURSE\diamondpattern\diamondpattern\obj\Debug\net8.0\diamondpattern.genruntimeconfig.cache
+D:\DOT NET COURSE\diamondpattern\diamondpattern\obj\Debug\net8.0\ref\diamondpattern.dll
