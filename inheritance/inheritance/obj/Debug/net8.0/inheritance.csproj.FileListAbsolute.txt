@@ -1,0 +1,15 @@
+D:\DOT NET COURSE\inheritance\inheritance\bin\Debug\net8.0\inheritance.exe
+D:\DOT NET COURSE\inheritance\inheritance\bin\Debug\net8.0\inheritance.deps.json
+D:\DOT NET COURSE\inheritance\inheritance\bin\Debug\net8.0\inheritance.runtimeconfig.json
+D:\DOT NET COURSE\inheritance\inheritance\bin\Debug\net8.0\inheritance.dll
+D:\DOT NET COURSE\inheritance\inheritance\bin\Debug\net8.0\inheritance.pdb
+D:\DOT NET COURSE\inheritance\inheritance\obj\Debug\net8.0\inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOT NET COURSE\inheritance\inheritance\obj\Debug\net8.0\inheritance.AssemblyInfoInputs.cache
+D:\DOT NET COURSE\inheritance\inheritance\obj\Debug\net8.0\inheritance.AssemblyInfo.cs
+D:\DOT NET COURSE\inheritance\inheritance\obj\Debug\net8.0\inheritance.csproj.CoreCompileInputs.cache
+D:\DOT NET COURSE\inheritance\inheritance\obj\Debug\net8.0\inheritance.sourcelink.json
+D:\DOT NET COURSE\inheritance\inheritance\obj\Debug\net8.0\inheritance.dll
+D:\DOT NET COURSE\inheritance\inheritance\obj\Debug\net8.0\refint\inheritance.dll
+D:\DOT NET COURSE\inheritance\inheritance\obj\Debug\net8.0\inheritance.pdb
+D:\DOT NET COURSE\inheritance\inheritance\obj\Debug\net8.0\inheritance.genruntimeconfig.cache
+D:\DOT NET COURSE\inheritance\inheritance\obj\Debug\net8.0\ref\inheritance.dll
