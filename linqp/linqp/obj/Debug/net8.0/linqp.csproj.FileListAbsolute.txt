@@ -1,0 +1,15 @@
+D:\DOT NET COURSE\linqp\linqp\bin\Debug\net8.0\linqp.exe
+D:\DOT NET COURSE\linqp\linqp\bin\Debug\net8.0\linqp.deps.json
+D:\DOT NET COURSE\linqp\linqp\bin\Debug\net8.0\linqp.runtimeconfig.json
+D:\DOT NET COURSE\linqp\linqp\bin\Debug\net8.0\linqp.dll
+D:\DOT NET COURSE\linqp\linqp\bin\Debug\net8.0\linqp.pdb
+D:\DOT NET COURSE\linqp\linqp\obj\Debug\net8.0\linqp.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOT NET COURSE\linqp\linqp\obj\Debug\net8.0\linqp.AssemblyInfoInputs.cache
+D:\DOT NET COURSE\linqp\linqp\obj\Debug\net8.0\linqp.AssemblyInfo.cs
+D:\DOT NET COURSE\linqp\linqp\obj\Debug\net8.0\linqp.csproj.CoreCompileInputs.cache
+D:\DOT NET COURSE\linqp\linqp\obj\Debug\net8.0\linqp.sourcelink.json
+D:\DOT NET COURSE\linqp\linqp\obj\Debug\net8.0\linqp.dll
+D:\DOT NET COURSE\linqp\linqp\obj\Debug\net8.0\refint\linqp.dll
+D:\DOT NET COURSE\linqp\linqp\obj\Debug\net8.0\linqp.pdb
+D:\DOT NET COURSE\linqp\linqp\obj\Debug\net8.0\linqp.genruntimeconfig.cache
+D:\DOT NET COURSE\linqp\linqp\obj\Debug\net8.0\ref\linqp.dll
