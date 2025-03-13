@@ -1,0 +1,15 @@
+D:\DOT NET COURSE\studentclass\studentclass\obj\Debug\net8.0\studentclass.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOT NET COURSE\studentclass\studentclass\obj\Debug\net8.0\studentclass.AssemblyInfoInputs.cache
+D:\DOT NET COURSE\studentclass\studentclass\obj\Debug\net8.0\studentclass.AssemblyInfo.cs
+D:\DOT NET COURSE\studentclass\studentclass\obj\Debug\net8.0\studentclass.csproj.CoreCompileInputs.cache
+D:\DOT NET COURSE\studentclass\studentclass\obj\Debug\net8.0\studentclass.sourcelink.json
+D:\DOT NET COURSE\studentclass\studentclass\bin\Debug\net8.0\studentclass.exe
+D:\DOT NET COURSE\studentclass\studentclass\bin\Debug\net8.0\studentclass.deps.json
+D:\DOT NET COURSE\studentclass\studentclass\bin\Debug\net8.0\studentclass.runtimeconfig.json
+D:\DOT NET COURSE\studentclass\studentclass\bin\Debug\net8.0\studentclass.dll
+D:\DOT NET COURSE\studentclass\studentclass\bin\Debug\net8.0\studentclass.pdb
+D:\DOT NET COURSE\studentclass\studentclass\obj\Debug\net8.0\studentclass.dll
+D:\DOT NET COURSE\studentclass\studentclass\obj\Debug\net8.0\refint\studentclass.dll
+D:\DOT NET COURSE\studentclass\studentclass\obj\Debug\net8.0\studentclass.pdb
+D:\DOT NET COURSE\studentclass\studentclass\obj\Debug\net8.0\studentclass.genruntimeconfig.cache
+D:\DOT NET COURSE\studentclass\studentclass\obj\Debug\net8.0\ref\studentclass.dll
