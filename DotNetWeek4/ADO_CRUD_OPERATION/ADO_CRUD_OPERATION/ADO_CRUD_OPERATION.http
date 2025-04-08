@@ -1,0 +1,6 @@
+@ADO_CRUD_OPERATION_HostAddress = http://localhost:5170
+
+GET {{ADO_CRUD_OPERATION_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
