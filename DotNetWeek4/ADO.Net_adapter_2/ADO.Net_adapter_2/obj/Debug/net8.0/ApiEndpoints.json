@@ -1,0 +1,38 @@
+[
+  {
+    "ContainingType": "ADO.Net_adapter_2.Controllers.StudentController",
+    "Method": "FilterStudentByAge",
+    "RelativePath": "api/Student/FilterStudentsByAge/{age}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "age",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ADO.Net_adapter_2.Controllers.StudentController",
+    "Method": "GetAllStudents",
+    "RelativePath": "api/Student/GetAllStudents",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ADO.Net_adapter_2.Controllers.StudentController",
+    "Method": "IncrementAllAges",
+    "RelativePath": "api/Student/incrementAllAges",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

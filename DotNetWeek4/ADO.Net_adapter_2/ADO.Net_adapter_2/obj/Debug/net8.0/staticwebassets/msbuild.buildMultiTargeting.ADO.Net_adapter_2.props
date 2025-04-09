@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ADO.Net_adapter_2.props" />
+</Project>
